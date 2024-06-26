@@ -1,2 +1,2 @@
-# mon_site_web
-Site web pour la formation GIT
+# formation_github
+Exercice de formation github
